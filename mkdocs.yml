@@ -1,5 +1,10 @@
 docs_dir: src
 site_dir: build
 site_name: amazing
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
 markdown_extensions:
     - toc
