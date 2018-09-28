@@ -9,7 +9,7 @@ theme:
 markdown_extensions:
     - toc
 
-html_theme_options = {
+html_theme_options : {
     'canonical_url': '',
     'analytics_id': '',
     'logo_only': False,
