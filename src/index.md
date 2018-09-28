@@ -1,4 +1,5 @@
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
-   intro
+    getting-started/intro
+    develop/intro
