@@ -4,8 +4,6 @@ site_name: amazing
 theme:
     name: readthedocs
     highlightjs: true
-    hljs_languages:
-        - yaml
     display_version: true
     collapse_navigation: false
     includehidden: true
