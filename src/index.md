@@ -1,1 +1,3 @@
-href: getting-started/intro.md
+.. toctree::
+    :hidden:
+    :maxdepth: 4
