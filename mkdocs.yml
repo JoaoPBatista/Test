@@ -2,8 +2,7 @@ docs_dir: src
 site_dir: build
 site_name: amazing
 theme:
-    name: readthedocs
-    highlightjs: true
+    name: material
 
 markdown_extensions:
     - toc
