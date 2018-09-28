@@ -6,6 +6,10 @@ theme:
     highlightjs: true
     hljs_languages:
         - yaml
+    display_version: true
+    collapse_navigation: false
+    includehidden: true
+    titles_only: true
 markdown_extensions:
     - toc
 
