@@ -7,7 +7,7 @@ tags: support-application_development; support-Mobile_Apps; support-webapps; sup
 
 You can structure your [OutSystems application](../getting-started/right-app.md) into several modules, each of them implementing a specific purpose or concept.
 
-Whether you start by a small application or a larger one, you should keep your application manageable and prepare it to scale. Check the [Reuse and Refactor](reuse-and-refactor/intro.md) section to learn how to achieve a modular design and avoid repeated logic.
+Whether you start by a small application or a larger one, you should keep your application manageable and prepare it to scale. Check the [Reuse and Refactor](reuse-and-refactor/intro.md) section to learn how to achieve a modular design and avoid repeated logic.asdadsad
 
 ## Web and Mobile Modules
 
